@@ -1,0 +1,16 @@
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ConvertType.csproj.AssemblyReference.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ConvertType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ConvertType.AssemblyInfoInputs.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ConvertType.AssemblyInfo.cs
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ConvertType.csproj.CoreCompileInputs.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\bin\Debug\net5.0\ConvertType.exe
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\bin\Debug\net5.0\ConvertType.deps.json
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\bin\Debug\net5.0\ConvertType.runtimeconfig.json
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\bin\Debug\net5.0\ConvertType.runtimeconfig.dev.json
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\bin\Debug\net5.0\ConvertType.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\bin\Debug\net5.0\ref\ConvertType.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\bin\Debug\net5.0\ConvertType.pdb
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ConvertType.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ref\ConvertType.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ConvertType.pdb
+C:\Users\rootb\Revature\C-Sharp_Programs\ConvertType\obj\Debug\net5.0\ConvertType.genruntimeconfig.cache

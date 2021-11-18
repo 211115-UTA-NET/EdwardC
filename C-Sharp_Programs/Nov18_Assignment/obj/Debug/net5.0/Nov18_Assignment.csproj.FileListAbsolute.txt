@@ -1,0 +1,16 @@
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\Nov18_Assignment.csproj.AssemblyReference.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\Nov18_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\Nov18_Assignment.AssemblyInfoInputs.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\Nov18_Assignment.AssemblyInfo.cs
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\Nov18_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\bin\Debug\net5.0\Nov18_Assignment.exe
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\bin\Debug\net5.0\Nov18_Assignment.deps.json
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\bin\Debug\net5.0\Nov18_Assignment.runtimeconfig.json
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\bin\Debug\net5.0\Nov18_Assignment.runtimeconfig.dev.json
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\bin\Debug\net5.0\Nov18_Assignment.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\bin\Debug\net5.0\ref\Nov18_Assignment.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\bin\Debug\net5.0\Nov18_Assignment.pdb
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\Nov18_Assignment.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\ref\Nov18_Assignment.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\Nov18_Assignment.pdb
+C:\Users\rootb\Revature\C-Sharp_Programs\Nov18_Assignment\obj\Debug\net5.0\Nov18_Assignment.genruntimeconfig.cache

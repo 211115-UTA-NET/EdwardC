@@ -1,0 +1,16 @@
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\3_DataTypeAndVariables.csproj.AssemblyReference.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\3_DataTypeAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\3_DataTypeAndVariables.AssemblyInfoInputs.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\3_DataTypeAndVariables.AssemblyInfo.cs
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\3_DataTypeAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\bin\Debug\net5.0\3_DataTypeAndVariables.exe
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\bin\Debug\net5.0\3_DataTypeAndVariables.deps.json
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\bin\Debug\net5.0\3_DataTypeAndVariables.runtimeconfig.json
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\bin\Debug\net5.0\3_DataTypeAndVariables.runtimeconfig.dev.json
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\bin\Debug\net5.0\3_DataTypeAndVariables.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\bin\Debug\net5.0\ref\3_DataTypeAndVariables.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\bin\Debug\net5.0\3_DataTypeAndVariables.pdb
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\3_DataTypeAndVariables.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\ref\3_DataTypeAndVariables.dll
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\3_DataTypeAndVariables.pdb
+C:\Users\rootb\Revature\C-Sharp_Programs\wk1_Challenges\3_DataTypeAndVariables\obj\Debug\net5.0\3_DataTypeAndVariables.genruntimeconfig.cache
