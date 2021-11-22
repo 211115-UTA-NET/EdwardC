@@ -27,7 +27,7 @@ namespace _3_DataTypeAndVariables
             string String1    = "I control text";
             string String2    = "834";
 
-            p.parseInt(String1, String2);
+            //p.parseInt(String1, String2);
 
             Console.WriteLine(numA);
             Console.WriteLine(numAa);
@@ -52,7 +52,7 @@ namespace _3_DataTypeAndVariables
             string name;
             int num;
 
-            result = int.TryParse(name, out num);
+            //result = int.TryParse(name, out num);
         }
     }
 }

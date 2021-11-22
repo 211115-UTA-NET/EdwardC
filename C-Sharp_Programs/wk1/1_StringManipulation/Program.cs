@@ -62,7 +62,12 @@ namespace Challenge_1
         }
 
         public void ConcatNames(string fName, string lName){
+            // striing.Concat(); string.Join()
+
+            string fullName = string.Concat(fName, lName);
+            Console.WriteLine(fullName);
             Console.WriteLine(fName + " " + lName);
+            
         }
 
 
