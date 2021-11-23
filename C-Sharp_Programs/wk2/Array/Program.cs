@@ -1,0 +1,33 @@
+﻿// See https://aka.ms/new-console-template for more information
+
+static void Main(){
+
+    int newInt = 8;
+
+    int[] intArray = new int[] {3, 4, 5};
+    int [] secondIntArray = new int[5];
+
+    int[] arrayone = new int[] {3, 4, 5};
+    int[] arraytwo = {1, 2, 3, 4, 5, 6, 7};
+
+    Console.WriteLine("newInt = " + newInt );
+    Console.WriteLine("intArray = " + intArray[1]);
+
+    Console.WriteLine("arrayone = " + arrayone[1]);
+    Console.WriteLine("arraytwo = " + arraytwo[1]);
+
+    Console.WriteLine("\nprinting arrayone");
+    PrintArray(arrayone);
+    Console.WriteLine("\nprinting arraytwo");
+    PrintArray(arraytwo);
+}
+
+static void PrintArray(int[] Array)
+{
+    for (int i = 0; i < Array.Length; i++)
+    {
+        Console.WriteLine(Array[i]);
+    }
+}
+
+Main();
