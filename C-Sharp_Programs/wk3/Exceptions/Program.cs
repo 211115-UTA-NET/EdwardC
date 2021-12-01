@@ -9,13 +9,13 @@ do{
 
     try
     {
-        Console.WriteLine(myString[0]);
+        Console.WriteLine(myString![0]);
         loop = false;
     }
     catch(IndexOutOfRangeException e)
     {
         Console.WriteLine("Uh oh, you entered no string!");
-        Console.WriteLine();
+        Console.WriteLine(e);
         loop = true;
     }
     finally
