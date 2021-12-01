@@ -1,0 +1,15 @@
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\bin\Debug\net6.0\fileInteraction.exe
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\bin\Debug\net6.0\fileInteraction.deps.json
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\bin\Debug\net6.0\fileInteraction.runtimeconfig.json
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\bin\Debug\net6.0\fileInteraction.dll
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\bin\Debug\net6.0\ref\fileInteraction.dll
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\bin\Debug\net6.0\fileInteraction.pdb
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\fileInteraction.csproj.AssemblyReference.cache
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\fileInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\fileInteraction.AssemblyInfoInputs.cache
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\fileInteraction.AssemblyInfo.cs
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\fileInteraction.csproj.CoreCompileInputs.cache
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\fileInteraction.dll
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\ref\fileInteraction.dll
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\fileInteraction.pdb
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk3\FileInteraction\obj\Debug\net6.0\fileInteraction.genruntimeconfig.cache
