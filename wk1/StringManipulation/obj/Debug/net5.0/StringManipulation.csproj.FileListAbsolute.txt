@@ -1,0 +1,16 @@
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\bin\Debug\net5.0\StringManipulation.exe
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\bin\Debug\net5.0\StringManipulation.deps.json
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\bin\Debug\net5.0\StringManipulation.runtimeconfig.json
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\bin\Debug\net5.0\StringManipulation.runtimeconfig.dev.json
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\bin\Debug\net5.0\StringManipulation.dll
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\bin\Debug\net5.0\ref\StringManipulation.dll
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\bin\Debug\net5.0\StringManipulation.pdb
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\StringManipulation.csproj.AssemblyReference.cache
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\StringManipulation.AssemblyInfoInputs.cache
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\StringManipulation.AssemblyInfo.cs
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\StringManipulation.dll
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\ref\StringManipulation.dll
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\StringManipulation.pdb
+C:\Users\rootb\Revature\EdwardC\C-Sharp_Programs\wk1\StringManipulation\obj\Debug\net5.0\StringManipulation.genruntimeconfig.cache
