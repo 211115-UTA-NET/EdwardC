@@ -1,0 +1,14 @@
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.AssemblyReference.cache
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfoInputs.cache
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.AssemblyInfo.cs
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.exe
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.deps.json
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.runtimeconfig.json
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.runtimeconfig.dev.json
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.dll
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\bin\Debug\netcoreapp3.1\AbstractClassesChallenge.pdb
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.dll
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.pdb
+C:\Users\rootb\Revature\EdwardC\AbstractClassesChallenge\obj\Debug\netcoreapp3.1\AbstractClassesChallenge.genruntimeconfig.cache
